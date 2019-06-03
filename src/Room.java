@@ -1,5 +1,20 @@
-import java.util.List;
-
 public class Room {
-    private List<String> name;
+    private String name;
+
+    public Room createRoom(String number) {
+        return null;
+    }
+
+    public Room getRoomById(Long id) {
+        return null;
+    }
+
+    public Room updateRoom() {
+        return null;
+    }
+
+    public Boolean deleteRoom(Long id) {
+        return null;
+    }
+
 }
