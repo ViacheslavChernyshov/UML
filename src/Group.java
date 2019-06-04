@@ -12,7 +12,7 @@ public class Group {
         return null;
     }
 
-    public Group updateGroup() {
+    public Group updateGroup(String number) {
         return null;
     }
 

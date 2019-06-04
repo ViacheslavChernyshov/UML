@@ -1,5 +1,5 @@
 public class Room {
-    private String name;
+    private String number;
 
     public Room createRoom(String number) {
         return null;
@@ -9,7 +9,7 @@ public class Room {
         return null;
     }
 
-    public Room updateRoom() {
+    public Room updateRoom(String number) {
         return null;
     }
 
